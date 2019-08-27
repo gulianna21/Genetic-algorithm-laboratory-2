@@ -1,0 +1,14 @@
+C:\Users\Kirill\Documents\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Kirill\Documents\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Kirill\Documents\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Kirill\Documents\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Виктор\Desktop\Projects\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Виктор\Desktop\Projects\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Виктор\Desktop\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.csprojResolveAssemblyReference.cache
+C:\Users\Виктор\Desktop\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Виктор\Desktop\Projects\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Юлия\Desktop\ЭГА\Lab2\Lab2\obj\x86\Debug\Lab2.exe
+C:\Users\Юлия\Desktop\ЭГА\Lab2\Lab2\obj\x86\Debug\Lab2.pdb
+C:\Users\Юлия\Desktop\ЭГА\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\Юлия\Desktop\ЭГА\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\Юлия\Desktop\ЭГА\Lab2\Lab2\obj\x86\Debug\Lab2.csprojResolveAssemblyReference.cache
